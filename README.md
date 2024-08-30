@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif)](https://rishavchanda.io)
-<div style="width:100%; display: flex; ">
+<div style="width:50%; display: flex; ">
 <h1 align="center">Hi 👋, I'm Srujan_B_N</h1>
 <h3 align="center">I’m a passionate Full Stack Web Developer with expertise in designing, developing, and maintaining complex web applications.</h3>
 
