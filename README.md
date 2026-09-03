@@ -28,8 +28,8 @@
   
 <h3>mobile applications</h3>
 <li><strong><a href="https://github.com/BNsrujan/HERDOS-Mobile-app">HERDOS-Mobile-app</a></strong> — Mobile app version of HERDOS</li>
-  <li><strong><a href="https://github.com/BNsrujan/NammaKathe">NammaKathe</a></strong> — Kotlin Android app</li>
-  <li><strong><a href="https://github.com/BNsrujan/OutPass">OutPass</a></strong>Digital hostel gate pass — students request an outing, wardens approve it, and security scans a signed QR at the gate to log every exit and return.</li>
+  <li><strong><a href="https://github.com/BNsrujan/NammaKathe">NammaKathe</a></strong> — Kotlin Android app, historical story of the current location</li>
+  <li><strong><a href="https://github.com/BNsrujan/OutPass">Digital hostel gate pass</a></strong> — students request an outing, wardens approve it, and security scans a signed QR at the gate to log every exit and return.</li>
 </ul>
 <h1>Notes</h1>
 <ul>
