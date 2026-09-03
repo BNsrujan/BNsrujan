@@ -46,6 +46,8 @@
   <li><strong><a href="https://github.com/BNsrujan/go_Server_Set">go_Server_Set</a></strong> — Go server setup/boilerplate</li>
   <li><strong><a href="https://github.com/BNsrujan/DSA_LeetCode">DSA_LeetCode</a></strong> — Data structures &amp; algorithms / LeetCode solutions</li>
 </ul>
+<li><strong><a href="https://github.com/BNsrujan/DSA_LeetCode">LogoDesignUsingHTMLAndCSS</a></strong> a logo design using html and css</li>
+</ul>
 
 <h1>Contributions</h1>
 <ul>
