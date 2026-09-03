@@ -26,9 +26,11 @@
   <li><strong><a href="https://github.com/BNsrujan/Readback">Readback</a></strong> — Reading/notes app</li>
   <li><strong><a href="https://github.com/BNsrujan/Xelive">Xelive</a></strong>- Xelive a marketing websitev <a href="https://xelivon.vercel.app/">LIVE</a></li>   
   <li><strong></strong></li>
+  
 <h3>mobile applications</h3>
 <li><strong><a href="https://github.com/BNsrujan/HERDOS-Mobile-app">HERDOS-Mobile-app</a></strong> — Mobile app version of HERDOS</li>
   <li><strong><a href="https://github.com/BNsrujan/NammaKathe">NammaKathe</a></strong> — Kotlin Android app</li>
+  <li><strong><a href="https://github.com/BNsrujan/OutPass">OutPass</a></strong></li>
 </ul>
 <h1>Notes</h1>
 <ul>
