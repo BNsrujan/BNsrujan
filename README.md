@@ -6,33 +6,35 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srujan-b-n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srujan-b-n/" height="30" width="40" /></a>
 </p>
-- **[Real_Estate_Marketplace](https://github.com/BNsrujan/Real_Estate_Marketplace)** — A platform to buy and sell real estate like a stock market
-- **[Real_Estate_Marketplace_Backend](https://github.com/BNsrujan/Real_Estate_Marketplace_Backend)** — Backend/API for the real estate marketplace
-- **[Linux_Playgrounds](https://github.com/BNsrujan/Linux_Playgrounds)** — A web-based terminal hosted on an Ubuntu server
-- **[GSAP](https://github.com/BNsrujan/GSAP)** — Experiments/learning with the GSAP animation library
-- **[HERDOS](https://github.com/BNsrujan/HERDOS)** — Main HERDOS project
-- **[HERDOS-Mobile-app](https://github.com/BNsrujan/HERDOS-Mobile-app)** — Mobile app version of HERDOS
-- **[NammaKathe](https://github.com/BNsrujan/NammaKathe)** — Kotlin Android app
-- **[AIR_BUS](https://github.com/BNsrujan/AIR_BUS)** — Air/bus booking or travel project
-- **[Quick-Share](https://github.com/BNsrujan/Quick-Share)** — A file/text quick-sharing app
-- **[mistry-message](https://github.com/BNsrujan/mistry-message)** — Anonymous "mystery message" app
-- **[Machine-management](https://github.com/BNsrujan/Machine-management)** — Machine/asset management system
-- **[inventory-order-management-system-](https://github.com/BNsrujan/inventory-order-management-system-)** — Inventory and order management system
-- **[Student_portal](https://github.com/BNsrujan/Student_portal)** — Student portal web app
-- **[Study_Buddy_Frontend](https://github.com/BNsrujan/Study_Buddy_Frontend)** — Frontend for a study-buddy/learning app
-- **[Youtube-Clone](https://github.com/BNsrujan/Youtube-Clone)** — A YouTube clone project
-- **[Portfolio_2](https://github.com/BNsrujan/Portfolio_2)** — Personal portfolio website
-- **[Vectorvalue-landingpage](https://github.com/BNsrujan/Vectorvalue-landingpage)** — Landing page for "Vectorvalue"
-- **[Tedx](https://github.com/BNsrujan/Tedx)** — A TEDx event website
-- **[Readback](https://github.com/BNsrujan/Readback)** — Reading/notes app
-- **[Login_register_page](https://github.com/BNsrujan/Login_register_page)** — Login and registration page
-- **[Github-OAuth](https://github.com/BNsrujan/Github-OAuth)** — GitHub OAuth login implementation
-- **[useContext](https://github.com/BNsrujan/useContext)** — React useContext learning/demo
-- **[Clean-Architecture-Backend-Frontend](https://github.com/BNsrujan/Clean-Architecture-Backend-Frontend)** — Clean architecture full-stack example
-- **[simple-backend-frontend-connection](https://github.com/BNsrujan/simple-backend-frontend-connection)** — Basic backend–frontend connection demo
-- **[Architecture-design-patterns](https://github.com/BNsrujan/Architecture-design-patterns)** — Notes/examples of software design patterns
-- **[go_Server_Set](https://github.com/BNsrujan/go_Server_Set)** — Go server setup/boilerplate
-- **[docker](https://github.com/BNsrujan/docker)** — Docker learning/config files
-- **[DSA_LeetCode](https://github.com/BNsrujan/DSA_LeetCode)** — Data structures & algorithms / LeetCode solutions
-- **[js-notes](https://github.com/BNsrujan/js-notes)** — JavaScript learning notes
-- **[git-comands](https://github.com/BNsrujan/git-comands)** — Notes on common Git commands
+<ul>
+  <li><strong><a href="https://github.com/BNsrujan/Real_Estate_Marketplace">Real_Estate_Marketplace</a></strong> — A platform to buy and sell real estate like a stock market</li>
+  <li><strong><a href="https://github.com/BNsrujan/Real_Estate_Marketplace_Backend">Real_Estate_Marketplace_Backend</a></strong> — Backend/API for the real estate marketplace</li>
+  <li><strong><a href="https://github.com/BNsrujan/Linux_Playgrounds">Linux_Playgrounds</a></strong> — A web-based terminal hosted on an Ubuntu server</li>
+  <li><strong><a href="https://github.com/BNsrujan/GSAP">GSAP</a></strong> — Experiments/learning with the GSAP animation library</li>
+  <li><strong><a href="https://github.com/BNsrujan/HERDOS">HERDOS</a></strong> — Main HERDOS project</li>
+  <li><strong><a href="https://github.com/BNsrujan/HERDOS-Mobile-app">HERDOS-Mobile-app</a></strong> — Mobile app version of HERDOS</li>
+  <li><strong><a href="https://github.com/BNsrujan/NammaKathe">NammaKathe</a></strong> — Kotlin Android app</li>
+  <li><strong><a href="https://github.com/BNsrujan/AIR_BUS">AIR_BUS</a></strong> — Air/bus booking or travel project</li>
+  <li><strong><a href="https://github.com/BNsrujan/Quick-Share">Quick-Share</a></strong> — A file/text quick-sharing app</li>
+  <li><strong><a href="https://github.com/BNsrujan/mistry-message">mistry-message</a></strong> — Anonymous "mystery message" app</li>
+  <li><strong><a href="https://github.com/BNsrujan/Machine-management">Machine-management</a></strong> — Machine/asset management system</li>
+  <li><strong><a href="https://github.com/BNsrujan/inventory-order-management-system-">inventory-order-management-system-</a></strong> — Inventory and order management system</li>
+  <li><strong><a href="https://github.com/BNsrujan/Student_portal">Student_portal</a></strong> — Student portal web app</li>
+  <li><strong><a href="https://github.com/BNsrujan/Study_Buddy_Frontend">Study_Buddy_Frontend</a></strong> — Frontend for a study-buddy/learning app</li>
+  <li><strong><a href="https://github.com/BNsrujan/Youtube-Clone">Youtube-Clone</a></strong> — A YouTube clone project</li>
+  <li><strong><a href="https://github.com/BNsrujan/Portfolio_2">Portfolio_2</a></strong> — Personal portfolio website</li>
+  <li><strong><a href="https://github.com/BNsrujan/Vectorvalue-landingpage">Vectorvalue-landingpage</a></strong> — Landing page for "Vectorvalue"</li>
+  <li><strong><a href="https://github.com/BNsrujan/Tedx">Tedx</a></strong> — A TEDx event website</li>
+  <li><strong><a href="https://github.com/BNsrujan/Readback">Readback</a></strong> — Reading/notes app</li>
+  <li><strong><a href="https://github.com/BNsrujan/Login_register_page">Login_register_page</a></strong> — Login and registration page</li>
+  <li><strong><a href="https://github.com/BNsrujan/Github-OAuth">Github-OAuth</a></strong> — GitHub OAuth login implementation</li>
+  <li><strong><a href="https://github.com/BNsrujan/useContext">useContext</a></strong> — React useContext learning/demo</li>
+  <li><strong><a href="https://github.com/BNsrujan/Clean-Architecture-Backend-Frontend">Clean-Architecture-Backend-Frontend</a></strong> — Clean architecture full-stack example</li>
+  <li><strong><a href="https://github.com/BNsrujan/simple-backend-frontend-connection">simple-backend-frontend-connection</a></strong> — Basic backend–frontend connection demo</li>
+  <li><strong><a href="https://github.com/BNsrujan/Architecture-design-patterns">Architecture-design-patterns</a></strong> — Notes/examples of software design patterns</li>
+  <li><strong><a href="https://github.com/BNsrujan/go_Server_Set">go_Server_Set</a></strong> — Go server setup/boilerplate</li>
+  <li><strong><a href="https://github.com/BNsrujan/docker">docker</a></strong> — Docker learning/config files</li>
+  <li><strong><a href="https://github.com/BNsrujan/DSA_LeetCode">DSA_LeetCode</a></strong> — Data structures &amp; algorithms / LeetCode solutions</li>
+  <li><strong><a href="https://github.com/BNsrujan/js-notes">js-notes</a></strong> — JavaScript learning notes</li>
+  <li><strong><a href="https://github.com/BNsrujan/git-comands">git-comands</a></strong> — Notes on common Git commands</li>
+</ul>
