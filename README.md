@@ -17,6 +17,7 @@
   <li><strong><a href="https://github.com/BNsrujan/HERDOS">HERDOS</a></strong> — Main HERDOS project</li>
   <li><strong><a href="https://github.com/BNsrujan/AIR_BUS">AIR_BUS</a></strong> — Air/bus booking or travel project</li>
   <li><strong><a href="https://github.com/BNsrujan/Quick-Share">Quick-Share</a></strong> — A file/text quick-sharing app</li>
+      <li><strong><a href="https://github.com/BNsrujan/AI_Meeting_Assistant">AI_Meeting_Assistant</a></strong> — An AI_Meeting_Assistant</li>
   <li><strong><a href="https://github.com/BNsrujan/mistry-message">mistry-message</a></strong> — Anonymous "mystery message" app</li>
   <li><strong><a href="https://github.com/BNsrujan/Machine-management">Machine-management</a></strong> — Machine/asset management system</li>
   <li><strong><a href="https://github.com/BNsrujan/inventory-order-management-system-">inventory-order-management-system-</a></strong> — Inventory and order management system</li>
