@@ -32,20 +32,20 @@
 </ul>
 <h1>Notes</h1>
 <ul>
-  <li><strong><a href="https://github.com/BNsrujan/Login_register_page">Login_register_page</a></strong> — Login and registration page</li>
+  <li><strong><a href="https://github.com/BNsrujan/js-notes">js-notes</a></strong> — JavaScript learning notes</li>
+  <li><strong><a href="https://github.com/BNsrujan/git-comands">git-comands</a></strong> — Notes on common Git commands</li>
+   <li><strong><a href="https://github.com/BNsrujan/GSAP">GSAP</a></strong> — Experiments/learning with the GSAP animation library</li>
+  <li><strong><a href="https://github.com/BNsrujan/docker">docker</a></strong> — Docker learning/config files</li>
   <li><strong><a href="https://github.com/BNsrujan/Github-OAuth">Github-OAuth</a></strong> — GitHub OAuth login implementation</li>
   <li><strong><a href="https://github.com/BNsrujan/useContext">useContext</a></strong> — React useContext learning/demo</li>
   <li><strong><a href="https://github.com/BNsrujan/Clean-Architecture-Backend-Frontend">Clean-Architecture-Backend-Frontend</a></strong> — Clean architecture full-stack example</li>
   <li><strong><a href="https://github.com/BNsrujan/simple-backend-frontend-connection">simple-backend-frontend-connection</a></strong> — Basic backend–frontend connection demo</li>
   <li><strong><a href="https://github.com/BNsrujan/Architecture-design-patterns">Architecture-design-patterns</a></strong> — Notes/examples of software design patterns</li>
+  <li><strong><a href="https://github.com/BNsrujan/Login_register_page">Login_register_page</a></strong> — Login and registration page</li>
   <li><strong><a href="https://github.com/BNsrujan/go_Server_Set">go_Server_Set</a></strong> — Go server setup/boilerplate</li>
-  <li><strong><a href="https://github.com/BNsrujan/docker">docker</a></strong> — Docker learning/config files</li>
   <li><strong><a href="https://github.com/BNsrujan/DSA_LeetCode">DSA_LeetCode</a></strong> — Data structures &amp; algorithms / LeetCode solutions</li>
-  <li><strong><a href="https://github.com/BNsrujan/js-notes">js-notes</a></strong> — JavaScript learning notes</li>
-  <li><strong><a href="https://github.com/BNsrujan/git-comands">git-comands</a></strong> — Notes on common Git commands</li>
-   <li><strong><a href="https://github.com/BNsrujan/GSAP">GSAP</a></strong> — Experiments/learning with the GSAP animation library</li>
 </ul>
 
-
+<h1>Contributions</h1>
  <li><strong><a href="https://github.com/BNsrujan/Portfolio_2">Portfolio_2</a></strong> — Personal portfolio website</li>
-   <li><strong><a href="https://github.com/BNsrujan/Vectorvalue-landingpage">Vectorvalue-landingpage</a></strong> — Landing page for "Vectorvalue"</li>
+<li><strong><a href="https://github.com/BNsrujan/Vectorvalue-landingpage">Vectorvalue-landingpage</a></strong> — Landing page for "Vectorvalue"</li>
