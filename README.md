@@ -21,7 +21,7 @@
   <li><strong><a href="https://github.com/BNsrujan/inventory-order-management-system-">inventory-order-management-system-</a></strong> — Inventory and order management system</li>
   <li><strong><a href="https://github.com/BNsrujan/Student_portal">Student_portal</a></strong> — Student portal web app</li>
   <li><strong><a href="https://github.com/BNsrujan/Study_Buddy_Frontend">Study_Buddy_Frontend</a></strong> — Frontend for a study-buddy/learning app</li>
-  <li><strong><a href="https://github.com/BNsrujan/Youtube-Clone">Youtube-Clone</a></strong> — A YouTube clone project</li>
+  <li><strong><a href="https://github.com/BNsrujan/Youtube-Clone">Youtube-Clone</a></strong> — A YouTube clone project<a href="https://youtube-clone-plum-beta.vercel.app/">LIVE</a></li>
   <li><strong><a href="https://github.com/BNsrujan/Tedx">Tedx</a></strong> — A TEDx event website <a href="https://tedxaiet.vercel.app/">LIVE</a></li>
   <li><strong><a href="https://github.com/BNsrujan/Readback">Readback</a></strong> — Reading/notes app</li>
   <li><strong><a href="https://github.com/BNsrujan/Xelive">Xelive</a></strong>- Xelive a marketing websitev <a href="https://xelivon.vercel.app/">LIVE</a></li>   
