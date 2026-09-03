@@ -11,6 +11,7 @@
 
 <ul>
 <h3>websites</h3>
+    <li><strong><a href="https://github.com/BNsrujan/Portfolio">Portfolio</a></strong> my portfolio</li>
   <li><strong><a href="https://github.com/BNsrujan/Real_Estate_Marketplace">Real_Estate_Marketplace</a></strong> — A platform to buy and sell real estate like a stock market</li>
   <li><strong><a href="https://github.com/BNsrujan/Linux_Playgrounds">Linux_Playgrounds</a></strong> — A web-based terminal hosted on an Ubuntu server</li>
   <li><strong><a href="https://github.com/BNsrujan/HERDOS">HERDOS</a></strong> — Main HERDOS project</li>
@@ -45,7 +46,6 @@
   <li><strong><a href="https://github.com/BNsrujan/Login_register_page">Login_register_page</a></strong> — Login and registration page</li>
   <li><strong><a href="https://github.com/BNsrujan/go_Server_Set">go_Server_Set</a></strong> — Go server setup/boilerplate</li>
   <li><strong><a href="https://github.com/BNsrujan/DSA_LeetCode">DSA_LeetCode</a></strong> — Data structures &amp; algorithms / LeetCode solutions</li>
-</ul>
 <li><strong><a href="https://github.com/BNsrujan/DSA_LeetCode">LogoDesignUsingHTMLAndCSS</a></strong> a logo design using html and css</li>
 </ul>
 
