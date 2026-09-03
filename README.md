@@ -12,7 +12,6 @@
 <ul>
 <h3>websites</h3>
   <li><strong><a href="https://github.com/BNsrujan/Real_Estate_Marketplace">Real_Estate_Marketplace</a></strong> — A platform to buy and sell real estate like a stock market</li>
-  <li><strong><a href="https://github.com/BNsrujan/Real_Estate_Marketplace_Backend">Real_Estate_Marketplace_Backend</a></strong> — Backend/API for the real estate marketplace</li>
   <li><strong><a href="https://github.com/BNsrujan/Linux_Playgrounds">Linux_Playgrounds</a></strong> — A web-based terminal hosted on an Ubuntu server</li>
   <li><strong><a href="https://github.com/BNsrujan/HERDOS">HERDOS</a></strong> — Main HERDOS project</li>
   <li><strong><a href="https://github.com/BNsrujan/AIR_BUS">AIR_BUS</a></strong> — Air/bus booking or travel project</li>
@@ -23,8 +22,10 @@
   <li><strong><a href="https://github.com/BNsrujan/Student_portal">Student_portal</a></strong> — Student portal web app</li>
   <li><strong><a href="https://github.com/BNsrujan/Study_Buddy_Frontend">Study_Buddy_Frontend</a></strong> — Frontend for a study-buddy/learning app</li>
   <li><strong><a href="https://github.com/BNsrujan/Youtube-Clone">Youtube-Clone</a></strong> — A YouTube clone project</li>
-  <li><strong><a href="https://github.com/BNsrujan/Tedx">Tedx</a></strong> — A TEDx event website</li>
+  <li><strong><a href="https://github.com/BNsrujan/Tedx">Tedx</a></strong> — A TEDx event website <a href="https://tedxaiet.vercel.app/">LIVE</a></li>
   <li><strong><a href="https://github.com/BNsrujan/Readback">Readback</a></strong> — Reading/notes app</li>
+  <li><strong><a href="https://github.com/BNsrujan/Xelive">Xelive</a></strong>- Xelive a marketing websitev <a href="https://xelivon.vercel.app/">LIVE</a></li>   
+  <li><strong></strong></li>
 <h3>mobile applications</h3>
 <li><strong><a href="https://github.com/BNsrujan/HERDOS-Mobile-app">HERDOS-Mobile-app</a></strong> — Mobile app version of HERDOS</li>
   <li><strong><a href="https://github.com/BNsrujan/NammaKathe">NammaKathe</a></strong> — Kotlin Android app</li>
