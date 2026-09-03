@@ -14,12 +14,20 @@
     <li><strong><a href="https://github.com/BNsrujan/Portfolio">Portfolio</a></strong> my portfolio</li>
   <li><strong><a href="https://github.com/BNsrujan/Real_Estate_Marketplace">Real_Estate_Marketplace</a></strong> — A platform to buy and sell real estate like a stock market</li>
   <li><strong><a href="https://github.com/BNsrujan/Linux_Playgrounds">Linux_Playgrounds</a></strong> — A web-based terminal hosted on an Ubuntu server</li>
+      <li><strong><a href="https://github.com/BNsrujan/Hackfy_Phase1">Hackfy_Phase1</a></strong> — Hackfy_Phase1 </li>
   <li><strong><a href="https://github.com/BNsrujan/HERDOS">HERDOS</a></strong> — Main HERDOS project</li>
   <li><strong><a href="https://github.com/BNsrujan/AIR_BUS">AIR_BUS</a></strong> — Air/bus booking or travel project</li>
   <li><strong><a href="https://github.com/BNsrujan/Quick-Share">Quick-Share</a></strong> — A file/text quick-sharing app</li>
       <li><strong><a href="https://github.com/BNsrujan/AI_Meeting_Assistant">AI_Meeting_Assistant</a></strong> — An AI_Meeting_Assistant</li>
   <li><strong><a href="https://github.com/BNsrujan/mistry-message">mistry-message</a></strong> — Anonymous "mystery message" app</li>
+    <li><strong><a href="https://github.com/BNsrujan/Studio">Studio</a></strong> — Studio</li>
+    <li><strong><a href="https://github.com/BNsrujan/Vithsutra">Vithsutra</a></strong> — Vithsutra</li>
+    <li><strong><a href="https://github.com/BNsrujan/inventory-order-management-system-"> inventory-order-management-system- </a></strong> — inventory-order-management-system-</li>
+    <li><strong><a href="https://github.com/BNsrujan/ProductConfiguration"> ProductConfiguration </a></strong> — ProductConfiguration</li>
+    ProductConfiguration
   <li><strong><a href="https://github.com/BNsrujan/Machine-management">Machine-management</a></strong> — Machine/asset management system</li>
+<li><strong><a href="https://github.com/BNsrujan/TradeX">TradeX</a></strong> TradeX</li>
+    TradeX
   <li><strong><a href="https://github.com/BNsrujan/inventory-order-management-system-">inventory-order-management-system-</a></strong> — Inventory and order management system</li>
   <li><strong><a href="https://github.com/BNsrujan/Student_portal">Student_portal</a></strong> — Student portal web app</li>
   <li><strong><a href="https://github.com/BNsrujan/Study_Buddy_Frontend">Study_Buddy_Frontend</a></strong> — Frontend for a study-buddy/learning app</li>
@@ -37,17 +45,22 @@
 <ul>
   <li><strong><a href="https://github.com/BNsrujan/js-notes">js-notes</a></strong> — JavaScript learning notes</li>
   <li><strong><a href="https://github.com/BNsrujan/git-comands">git-comands</a></strong> — Notes on common Git commands</li>
+    <li><strong><a href="https://github.com/BNsrujan/TypeScript-Notes">TypeScript-Notes </a></strong> TypeScript-Notes </li>
    <li><strong><a href="https://github.com/BNsrujan/GSAP">GSAP</a></strong> — Experiments/learning with the GSAP animation library</li>
   <li><strong><a href="https://github.com/BNsrujan/docker">docker</a></strong> — Docker learning/config files</li>
   <li><strong><a href="https://github.com/BNsrujan/Github-OAuth">Github-OAuth</a></strong> — GitHub OAuth login implementation</li>
-  <li><strong><a href="https://github.com/BNsrujan/useContext">useContext</a></strong> — React useContext learning/demo</li>
+  <li><strong><a href="https://github.com/BNsrujan/useContext">useContext</a></strong> — React useContext learning/demo</li>     
   <li><strong><a href="https://github.com/BNsrujan/Clean-Architecture-Backend-Frontend">Clean-Architecture-Backend-Frontend</a></strong> — Clean architecture full-stack example</li>
   <li><strong><a href="https://github.com/BNsrujan/simple-backend-frontend-connection">simple-backend-frontend-connection</a></strong> — Basic backend–frontend connection demo</li>
   <li><strong><a href="https://github.com/BNsrujan/Architecture-design-patterns">Architecture-design-patterns</a></strong> — Notes/examples of software design patterns</li>
-  <li><strong><a href="https://github.com/BNsrujan/Login_register_page">Login_register_page</a></strong> — Login and registration page</li>
+  <li><strong><a href="https://github.com/BNsrujan/Reactjs_Learning_Project">Reactjs_Learning_Project</a></strong> — </li>
+    <li><strong><a href="https://github.com/BNsrujan/Login_register_page">Login_register_page</a></strong> — Login and registration page</li>
   <li><strong><a href="https://github.com/BNsrujan/go_Server_Set">go_Server_Set</a></strong> — Go server setup/boilerplate</li>
   <li><strong><a href="https://github.com/BNsrujan/DSA_LeetCode">DSA_LeetCode</a></strong> — Data structures &amp; algorithms / LeetCode solutions</li>
 <li><strong><a href="https://github.com/BNsrujan/DSA_LeetCode">LogoDesignUsingHTMLAndCSS</a></strong> a logo design using html and css</li>
+<li><strong><a href="https://github.com/BNsrujan/Java_project">Java_project</a></strong> Java_project</li>
+
+    
 </ul>
 
 <h1>Contributions</h1>
