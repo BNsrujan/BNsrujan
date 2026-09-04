@@ -89,32 +89,32 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 
 ### 🌐 Web Applications
 
-- **[Tradx](https://github.com/BNsrujan/Tradx)** — A financial trading platform built for Spurzee Technologies with Next.js, TypeScript & Tailwind CSS
-- **[AI_Meeting_Assistant](ADD_HOSTED_LINK)** — An AI-powered meeting assistant _(private — hosted link)_
-- **[ProductConfiguration](ADD_HOSTED_LINK)** — A product configuration system _(private — hosted link)_
-- **[Vithsutra](ADD_HOSTED_LINK)** — Marketing platform serving 20,000+ users _(private — hosted link)_
-- **[Studio](ADD_HOSTED_LINK)** — Studio _(private — hosted link)_
-- **[Portfolio](ADD_HOSTED_LINK)** — My developer portfolio _(private — hosted link)_
-- **[Real_Estate_Marketplace](https://github.com/BNsrujan/Real_Estate_Marketplace)** — A marketplace to buy and sell real estate like shares on a stock market
-- **[Readback](https://github.com/BNsrujan/Readback)** — Turns a PDF or your notes into a summary, key takeaways, and a self-marking quiz so you can test what you've actually learned
-- **[Quick-Share](https://github.com/BNsrujan/Quick-Share)** — Fast, private file sharing that avoids the slow transfers, quality loss, and data snooping of mainstream apps
-- **[mistry-message](https://github.com/BNsrujan/mistry-message)** — An anonymous messaging platform (Next.js, NextAuth, Resend) with AI-generated message suggestions via OpenAI
-- **[Machine-management](https://github.com/BNsrujan/Machine-management)** — *Telo* — a machine-management dashboard for tracking machines, users, and financial transactions, with authentication and expense tracking
-- **[Student_portal](https://github.com/BNsrujan/Student_portal)** — A monorepo student portal merged from three services, preserving full commit history and author attribution
-- **[Linux_Playgrounds](https://github.com/BNsrujan/Linux_Playgrounds)** — In-browser Linux terminals running in Dockerized environments on an Ubuntu server, with WebSockets and GitHub OAuth
+- **[Tradx]** — A financial trading platform built for Spurzee Technologies with Next.js, TypeScript & Tailwind CSS [Live ↗](https://tradx-beta.vercel.app/)
+- **[AI_Meeting_Assistant](ADD_HOSTED_LINK)** — An AI-powered meeting assistant [Live ↗]()
+- **[ProductConfiguration](ADD_HOSTED_LINK)** — A product configuration system [Live ↗]()
+- **[Vithsutra](ADD_HOSTED_LINK)** — Marketing platform serving 20,000+ users [Live ↗]()
+- **[Studio]** — Studio [Live ↗]()
+- **[Portfolio]** — My developer portfolio [Live ↗]()
+- **[Real_Estate_Marketplace]** — A marketplace to buy and sell real estate like shares on a stock market [Live ↗](https://real-estate-marketplace-frontend.vercel.app/)
+- **[Readback](https://github.com/BNsrujan/Readback)** — Turns a PDF or your notes into a summary, key takeaways, and a self-marking quiz so you can test what you've actually learned [Live ↗](https://readback-beta.vercel.app/)
+- **[Quick-Share](https://github.com/BNsrujan/Quick-Share)** — Fast, private file sharing that avoids the slow transfers, quality loss, and data snooping of mainstream apps [Live ↗]()
+- **[mistry-message](https://github.com/BNsrujan/mistry-message)** — An anonymous messaging platform (Next.js, NextAuth, Resend) with AI-generated message suggestions via OpenAI [Live ↗]()
+- **[Machine-management](https://github.com/BNsrujan/Machine-management)** — *Telo* — a machine-management dashboard for tracking machines, users, and financial transactions, with authentication and expense tracking [Live ↗]()
+- **[Student_portal](https://github.com/BNsrujan/Student_portal)** — A monorepo student portal merged from three services, preserving full commit history and author attribution [Live ↗]()
+- **[Linux_Playgrounds](https://github.com/BNsrujan/Linux_Playgrounds)** — In-browser Linux terminals running in Dockerized environments on an Ubuntu server, with WebSockets and GitHub OAuth [Live ↗]()
 - **[Hackfy_Phase1](https://github.com/BNsrujan/Hackfy_Phase1)** — The Hackfy hackathon-platform website (React + Vite) · [Live ↗](https://hacfy.com/)
 - **[Xelivon](https://github.com/BNsrujan/Xelivon)** — A marketing website built with Next.js · [Live ↗](https://xelivon.vercel.app/)
 - **[Tedx](https://github.com/BNsrujan/Tedx)** — Official TEDxAIET event website · [Live ↗](https://tedxaiet.vercel.app/)
 - **[inventory-order-management-system-](https://github.com/BNsrujan/inventory-order-management-system-)** — An inventory and order management system
-- **[HERDOS](https://github.com/BNsrujan/HERDOS)** — HERDOS web platform
+- **[HERDOS](https://github.com/BNsrujan/HERDOS)** — HERDOS web platform 
 - **[AIR_BUS](https://github.com/BNsrujan/AIR_BUS)** — An air & bus booking project
 - **[Youtube-Clone](https://github.com/BNsrujan/Youtube-Clone)** — A YouTube clone · [Live ↗](https://youtube-clone-plum-beta.vercel.app/)
 
 ### 📱 Mobile Applications
 
-- **[NammaKathe](https://github.com/BNsrujan/NammaKathe)** — A native Android app (Kotlin + Jetpack Compose): an interactive storytelling app that teaches children about Karnataka's local heroes, poets, and social reformers, with a swipeable Kannada/English storybook mode and a district explorer
-- **[OutPass](https://github.com/BNsrujan/OutPass)** — A digital hostel gate pass: students raise an outing request from their phone, the warden approves it, and security scans a signed QR at the gate to log every exit and return — replacing the unverified paper register
-- **[HERDOS-Mobile-app](https://github.com/BNsrujan/HERDOS-Mobile-app)** — The HERDOS mobile app, built with Expo / React Native
+- **[NammaKathe](https://github.com/BNsrujan/NammaKathe)** — A native Android app (Kotlin + Jetpack Compose): an interactive storytelling app that teaches children about Karnataka's local heroes, poets, and social reformers, with a swipeable Kannada/English storybook mode and a district explorer [Live ↗]()
+- **[OutPass](https://github.com/BNsrujan/OutPass)** — A digital hostel gate pass: students raise an outing request from their phone, the warden approves it, and security scans a signed QR at the gate to log every exit and return — replacing the unverified paper register [Live ↗]()
+- **[HERDOS-Mobile-app](https://github.com/BNsrujan/HERDOS-Mobile-app)** — The HERDOS mobile app, built with Expo / React Native [Live ↗]()
 
 <details>
 <summary><b>📝 Notes & Learning</b> (click to expand)</summary>
