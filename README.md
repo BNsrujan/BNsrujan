@@ -74,10 +74,10 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BNsrujan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Srujan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNsrujan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+<!-- <div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=BNsrujan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Srujan's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BNsrujan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=BNsrujan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -90,6 +90,11 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 ### 🌐 Web Applications
 
 - **[Tradx](https://github.com/BNsrujan/Tradx)** — A financial trading platform built for Spurzee Technologies with Next.js, TypeScript & Tailwind CSS
+- **[AI_Meeting_Assistant](ADD_HOSTED_LINK)** — An AI-powered meeting assistant _(private — hosted link)_
+- **[ProductConfiguration](ADD_HOSTED_LINK)** — A product configuration system _(private — hosted link)_
+- **[Vithsutra](ADD_HOSTED_LINK)** — Marketing platform serving 20,000+ users _(private — hosted link)_
+- **[Studio](ADD_HOSTED_LINK)** — Studio _(private — hosted link)_
+- **[Portfolio](ADD_HOSTED_LINK)** — My developer portfolio _(private — hosted link)_
 - **[Real_Estate_Marketplace](https://github.com/BNsrujan/Real_Estate_Marketplace)** — A marketplace to buy and sell real estate like shares on a stock market
 - **[Readback](https://github.com/BNsrujan/Readback)** — Turns a PDF or your notes into a summary, key takeaways, and a self-marking quiz so you can test what you've actually learned
 - **[Quick-Share](https://github.com/BNsrujan/Quick-Share)** — Fast, private file sharing that avoids the slow transfers, quality loss, and data snooping of mainstream apps
