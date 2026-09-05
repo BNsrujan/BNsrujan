@@ -90,11 +90,10 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 ### 🌐 Web Applications
 
 - **[Tradx]** — A financial trading platform built for Spurzee Technologies with Next.js, TypeScript & Tailwind CSS [Live ↗](https://tradx-beta.vercel.app/)
-- **[AI_Meeting_Assistant](ADD_HOSTED_LINK)** — An AI-powered meeting assistant [Live ↗]()
-- **[ProductConfiguration](ADD_HOSTED_LINK)** — A product configuration system [Live ↗]()
-- **[Vithsutra](ADD_HOSTED_LINK)** — Marketing platform serving 20,000+ users [Live ↗]()
-- **[Studio]** — Studio [Live ↗]()
-- **[Portfolio]** — My developer portfolio [Live ↗]()
+<!-- - **[AI_Meeting_Assistant](ADD_HOSTED_LINK)** — An AI-powered meeting assistant [Live ↗]() -->
+- **Vithsutra** — Marketing platform serving 20,000+ users [Live ↗](https://vithsutra.com/)
+- **Studio** — Studio [Live ↗]()
+- **[Portfolio]** — My developer portfolio [Live ↗](https://srujan-b-n-portfolio.vercel.app/)
 - **[Real_Estate_Marketplace]** — A marketplace to buy and sell real estate like shares on a stock market [Live ↗](https://real-estate-marketplace-frontend.vercel.app/)
 - **[Readback](https://github.com/BNsrujan/Readback)** — Turns a PDF or your notes into a summary, key takeaways, and a self-marking quiz so you can test what you've actually learned [Live ↗](https://readback-beta.vercel.app/)
 - **[Quick-Share](https://github.com/BNsrujan/Quick-Share)** — Fast, private file sharing that avoids the slow transfers, quality loss, and data snooping of mainstream apps [Live ↗]()
@@ -123,6 +122,7 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 
 - **[Architecture-design-patterns](https://github.com/BNsrujan/Architecture-design-patterns)** — Notes & examples of software design patterns
 - **[Clean-Architecture-Backend-Frontend](https://github.com/BNsrujan/Clean-Architecture-Backend-Frontend)** — A clean-architecture full-stack example
+- **[ProductConfiguration](ADD_HOSTED_LINK)** — A simple login and register page 
 - **[go_Server_Set](https://github.com/BNsrujan/go_Server_Set)** — A Go HTTP server setup & boilerplate
 - **[docker](https://github.com/BNsrujan/docker)** — Docker learning & config files
 - **[DSA_LeetCode](https://github.com/BNsrujan/DSA_LeetCode)** — Data structures & algorithms / LeetCode solutions in Java
