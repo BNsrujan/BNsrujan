@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · Final-year CSE Student · Bengaluru, India
 
-Building production web platforms with **React, Next.js, TypeScript & Node.js** — currently crafting robotics/STEM software used by 80,000+ learners at Evobi Automations.
+Building production web platforms with **React, Next.js, TypeScript & Node.js** currently crafting robotics/STEM software used by 80,000+ learners at Evobi Automations.
 
 <p align="center">
   <a href="https://srujan-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -19,10 +19,10 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 
 ## 🚀 About Me
 
-- 🔭 Currently a **Full-Stack Developer at Evobi Automations**, building **Plode** & **TinkerBunker** — robotics/STEM education platforms used by **80,000+ users**
+- 🔭 Currently a **Full-Stack Developer at Evobi Automations**, building **Plode** & **TinkerBunker** robotics/STEM education platforms used by **80,000+ users**
 - 🎓 Final-year **Computer Science & Engineering** student (VTU), graduating **2026**
 - 🧩 Previously **Frontend Developer at Vithsutra**, scaling a marketing platform to **20,000+ users**
-- 💸 Freelance developer — built **Tradx**, a financial trading platform for Spurzee Technologies
+- 💸 Freelance developer: built **Tradx** a financial trading platform for Spurzee Technologies
 - 🌱 Going deeper into **Go, Nest.js, microservices & system design**
 - 💬 Ask me about **React, Next.js, TypeScript, the Web Serial API & full-stack development**
 - ⚡ Solved **120+ DSA problems** on LeetCode & CodeChef
@@ -89,10 +89,11 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 
 ### 🌐 Web Applications
 
-- **[Tradx]** — A financial trading platform built for Spurzee Technologies with Next.js, TypeScript & Tailwind CSS [Live ↗](https://tradx-beta.vercel.app/)
+- **Tradx** — A financial trading platform built for Spurzee Technologies with Next.js, TypeScript & Tailwind CSS [Live ↗](https://tradx-beta.vercel.app/)
 - **Vithsutra** — Marketing platform serving 20,000+ users [Live ↗](https://vithsutra.com/)
-- **[Portfolio]** — My developer portfolio [Live ↗](https://srujan-b-n-portfolio.vercel.app/)
-- **[Real_Estate_Marketplace]** — A marketplace to buy and sell real estate like shares on a stock market [Live ↗](https://real-estate-marketplace-frontend.vercel.app/)
+- **Portfolio** — My developer portfolio [Live ↗](https://srujan-b-n-portfolio.vercel.app/)
+- **Real_Estate_Marketplace** — A marketplace to buy and sell real estate like shares on a stock market [Live ↗](https://real-estate-marketplace-frontend.vercel.app/)
+- **Tedx** — Official marketing website TEDxAIET event website · [Live ↗](https://tedxaiet.vercel.app/)
 - **[Readback](https://github.com/BNsrujan/Readback)** — Turns a PDF or your notes into a summary, key takeaways, and a self-marking quiz so you can test what you've actually learned [Live ↗](https://readback-beta.vercel.app/)
 - **[Quick-Share](https://github.com/BNsrujan/Quick-Share)** — Fast, private file sharing that avoids the slow transfers, quality loss, and data snooping of mainstream apps [Live ↗]()
 - **[mistry-message](https://github.com/BNsrujan/mistry-message)** — An anonymous messaging platform (Next.js, NextAuth, Resend) with AI-generated message suggestions via OpenAI [Live ↗]()
@@ -100,7 +101,6 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 - **[Linux_Playgrounds](https://github.com/BNsrujan/Linux_Playgrounds)** — In-browser Linux terminals running in Dockerized environments on an Ubuntu server, with WebSockets and GitHub OAuth 
 - **[Hackfy_Phase1](https://github.com/BNsrujan/Hackfy_Phase1)** — The marketing website for Hackfy · [Current website ↗](https://hacfy.com/)
 - **[Xelivon](https://github.com/BNsrujan/Xelivon)** — A marketing website built with Next.js · [Live ↗](https://xelivon.vercel.app/)
-- **[Tedx](https://github.com/BNsrujan/Tedx)** — Official marketing website TEDxAIET event website · [Live ↗](https://tedxaiet.vercel.app/)
 - **[AIR_BUS](https://github.com/BNsrujan/AIR_BUS)** — An falt booking project [Live ↗](https://air-bus-delta.vercel.app/)
 - **[Youtube-Clone](https://github.com/BNsrujan/Youtube-Clone)** — A YouTube clone with recommendation system · [Live ↗](https://youtube-clone-plum-beta.vercel.app/)
 
