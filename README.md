@@ -93,10 +93,9 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 - **Vithsutra** — Marketing platform serving 20,000+ users [Live ↗](https://vithsutra.com/)
 - **Portfolio** — My developer portfolio [Live ↗](https://srujan-b-n-portfolio.vercel.app/)
 - **Real_Estate_Marketplace** — A marketplace to buy and sell real estate like shares on a stock market [Live ↗](https://real-estate-marketplace-frontend.vercel.app/)
-- **Tedx** — Official marketing website TEDxAIET event website · [Live ↗](https://tedxaiet.vercel.app/)
+- **[Tedx](https://github.com/BNsrujan/Tedx)** — Official marketing website TEDxAIET event website · [Live ↗](https://tedxaiet.vercel.app/)
 - **[Readback](https://github.com/BNsrujan/Readback)** — Turns a PDF or your notes into a summary, key takeaways, and a self-marking quiz so you can test what you've actually learned [Live ↗](https://readback-beta.vercel.app/)
 - **[Quick-Share](https://github.com/BNsrujan/Quick-Share)** — Fast, private file sharing that avoids the slow transfers, quality loss, and data snooping of mainstream apps [Live ↗]()
-- **[mistry-message](https://github.com/BNsrujan/mistry-message)** — An anonymous messaging platform (Next.js, NextAuth, Resend) with AI-generated message suggestions via OpenAI [Live ↗]()
 - **[Student_portal](https://github.com/BNsrujan/Student_portal)** — A monorepo student portal wite teacher student admin dash board [Live ↗]()
 - **[Linux_Playgrounds](https://github.com/BNsrujan/Linux_Playgrounds)** — In-browser Linux terminals running in Dockerized environments on an Ubuntu server, with WebSockets and GitHub OAuth 
 - **[Hackfy_Phase1](https://github.com/BNsrujan/Hackfy_Phase1)** — The marketing website for Hackfy · [Current website ↗](https://hacfy.com/)
@@ -137,6 +136,8 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 - **[TypeScript-Notes](https://github.com/BNsrujan/TypeScript-Notes)** — TypeScript learning notes
 - **[js-notes](https://github.com/BNsrujan/js-notes)** — JavaScript learning notes
 - **[git-comands](https://github.com/BNsrujan/git-comands)** — Notes on common Git commands
+<!-- - **[basick-template](https://github.com/BNsrujan/Basic_Template)** — it's a basic template -->
+
 
 </details>
 
