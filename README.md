@@ -90,30 +90,30 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 ### 🌐 Web Applications
 
 - **[Tradx]** — A financial trading platform built for Spurzee Technologies with Next.js, TypeScript & Tailwind CSS [Live ↗](https://tradx-beta.vercel.app/)
-<!-- - **[AI_Meeting_Assistant](ADD_HOSTED_LINK)** — An AI-powered meeting assistant [Live ↗]() -->
 - **Vithsutra** — Marketing platform serving 20,000+ users [Live ↗](https://vithsutra.com/)
-- **Studio** — Studio [Live ↗]()
 - **[Portfolio]** — My developer portfolio [Live ↗](https://srujan-b-n-portfolio.vercel.app/)
 - **[Real_Estate_Marketplace]** — A marketplace to buy and sell real estate like shares on a stock market [Live ↗](https://real-estate-marketplace-frontend.vercel.app/)
 - **[Readback](https://github.com/BNsrujan/Readback)** — Turns a PDF or your notes into a summary, key takeaways, and a self-marking quiz so you can test what you've actually learned [Live ↗](https://readback-beta.vercel.app/)
 - **[Quick-Share](https://github.com/BNsrujan/Quick-Share)** — Fast, private file sharing that avoids the slow transfers, quality loss, and data snooping of mainstream apps [Live ↗]()
 - **[mistry-message](https://github.com/BNsrujan/mistry-message)** — An anonymous messaging platform (Next.js, NextAuth, Resend) with AI-generated message suggestions via OpenAI [Live ↗]()
-- **[Machine-management](https://github.com/BNsrujan/Machine-management)** — *Telo* — a machine-management dashboard for tracking machines, users, and financial transactions, with authentication and expense tracking [Live ↗]()
-- **[Student_portal](https://github.com/BNsrujan/Student_portal)** — A monorepo student portal merged from three services, preserving full commit history and author attribution [Live ↗]()
-- **[Linux_Playgrounds](https://github.com/BNsrujan/Linux_Playgrounds)** — In-browser Linux terminals running in Dockerized environments on an Ubuntu server, with WebSockets and GitHub OAuth [Live ↗]()
-- **[Hackfy_Phase1](https://github.com/BNsrujan/Hackfy_Phase1)** — The Hackfy hackathon-platform website (React + Vite) · [Live ↗](https://hacfy.com/)
+- **[Student_portal](https://github.com/BNsrujan/Student_portal)** — A monorepo student portal wite teacher student admin dash board [Live ↗]()
+- **[Linux_Playgrounds](https://github.com/BNsrujan/Linux_Playgrounds)** — In-browser Linux terminals running in Dockerized environments on an Ubuntu server, with WebSockets and GitHub OAuth 
+- **[Hackfy_Phase1](https://github.com/BNsrujan/Hackfy_Phase1)** — The marketing website for Hackfy · [Current website ↗](https://hacfy.com/)
 - **[Xelivon](https://github.com/BNsrujan/Xelivon)** — A marketing website built with Next.js · [Live ↗](https://xelivon.vercel.app/)
-- **[Tedx](https://github.com/BNsrujan/Tedx)** — Official TEDxAIET event website · [Live ↗](https://tedxaiet.vercel.app/)
-- **[inventory-order-management-system-](https://github.com/BNsrujan/inventory-order-management-system-)** — An inventory and order management system
-- **[HERDOS](https://github.com/BNsrujan/HERDOS)** — HERDOS web platform 
-- **[AIR_BUS](https://github.com/BNsrujan/AIR_BUS)** — An air & bus booking project
-- **[Youtube-Clone](https://github.com/BNsrujan/Youtube-Clone)** — A YouTube clone · [Live ↗](https://youtube-clone-plum-beta.vercel.app/)
+- **[Tedx](https://github.com/BNsrujan/Tedx)** — Official marketing website TEDxAIET event website · [Live ↗](https://tedxaiet.vercel.app/)
+- **[AIR_BUS](https://github.com/BNsrujan/AIR_BUS)** — An falt booking project [Live ↗](https://air-bus-delta.vercel.app/)
+- **[Youtube-Clone](https://github.com/BNsrujan/Youtube-Clone)** — A YouTube clone with recommendation system · [Live ↗](https://youtube-clone-plum-beta.vercel.app/)
+
+<!-- - **[Machine-management](https://github.com/BNsrujan/Machine-management)** — *Telo* — a machine-management dashboard for tracking machines, users, and financial transactions, with authentication and expense tracking [Live ↗]() -->
+<!-- - **[HERDOS](https://github.com/BNsrujan/HERDOS)** — HERDOS web platform  -->
+<!-- - **Studio** — Studio [Live ↗]() -->
+<!-- - **[AI_Meeting_Assistant](ADD_HOSTED_LINK)** — An AI-powered meeting assistant [Live ↗]() -->
 
 ### 📱 Mobile Applications
 
-- **[NammaKathe](https://github.com/BNsrujan/NammaKathe)** — A native Android app (Kotlin + Jetpack Compose): an interactive storytelling app that teaches children about Karnataka's local heroes, poets, and social reformers, with a swipeable Kannada/English storybook mode and a district explorer [Live ↗]()
-- **[OutPass](https://github.com/BNsrujan/OutPass)** — A digital hostel gate pass: students raise an outing request from their phone, the warden approves it, and security scans a signed QR at the gate to log every exit and return — replacing the unverified paper register [Live ↗]()
-- **[HERDOS-Mobile-app](https://github.com/BNsrujan/HERDOS-Mobile-app)** — The HERDOS mobile app, built with Expo / React Native [Live ↗]()
+- **[NammaKathe](https://github.com/BNsrujan/NammaKathe)** — A native Android app (Kotlin + Jetpack Compose): an interactive storytelling app that teaches children about Karnataka's local heroes, poets, and social reformers, with a swipeable Kannada/English storybook mode and a district explorer [Dowloade the APK ↗]()
+- **[OutPass](https://github.com/BNsrujan/OutPass)** — A digital hostel gate pass: students raise an outing request from their phone, the warden approves it, and security scans a signed QR at the gate to log every exit and return — replacing the unverified paper register [Dowloade APK ↗]()
+- **[HERDOS-Mobile-app](https://github.com/BNsrujan/HERDOS-Mobile-app)** — The HERDOS mobile app, built with Expo / React Native [Dowloade the APK ↗]()
 
 <details>
 <summary><b>📝 Notes & Learning</b> (click to expand)</summary>
@@ -140,7 +140,7 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 
 </details>
 
----
+<!---
 
 ## 🤝 Contributions
 
@@ -148,7 +148,7 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 - **[Portfolio_2](https://github.com/BNsrujan/Portfolio_2)** — A personal portfolio website
 - **[Vectorvalue-landingpage](https://github.com/BNsrujan/Vectorvalue-landingpage)** — A landing page for Vectorvalue
 
----
+--->
 
 <div align="center">
 
