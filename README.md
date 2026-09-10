@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Srujan B N
 
-### Full-Stack Developer · Final-year CSE Student · Bengaluru, India
+### Full-Stack Developer · Bengaluru, India
 
-Building production web platforms with **React, Next.js, TypeScript & Node.js** currently crafting robotics/STEM software used by 80,000+ learners at Evobi Automations.
+Building production web platforms with **React, Next.js, TypeScript & Node.js**.
 
 <p align="center">
   <a href="https://srujan-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -21,7 +21,7 @@ Building production web platforms with **React, Next.js, TypeScript & Node.js** 
 
 - 🔭 Currently a **Full-Stack Developer at Evobi Automations**, building **Plode** & **TinkerBunker** robotics/STEM education platforms used by **80,000+ users**
 - 🎓 Final-year **Computer Science & Engineering** student (VTU), graduating **2026**
-- 🧩 Previously **Frontend Developer at Vithsutra**, scaling a marketing platform to **20,000+ users**
+- 🧩 Previously **Frontend Developer at Vithsutra**, scaling a marketing platform to **20,000+ users** and **crafted** robotics/STEM software used by 80,000+ learners at **Evobi Automations**.
 - 💸 Freelance developer: built **Tradx** a financial trading platform for Spurzee Technologies
 - 🌱 Going deeper into **Go, Nest.js, microservices & system design**
 - 💬 Ask me about **React, Next.js, TypeScript, the Web Serial API & full-stack development**
